@@ -44,7 +44,6 @@ async function openaiCall(
         content: content,
       });
     }
-    console.log(messages);
     const response = await openai.chat.completions.create({
       model: "gpt-3.5-turbo",
       messages: messages as any,
