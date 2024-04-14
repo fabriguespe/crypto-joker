@@ -36,9 +36,11 @@ then populate the environment variables accordingly
 
 ```bash
 KEY= # Your main key here
-HEARTBEAT_BOT_KEY= # Your heartbeat bot key here
 XMTP_ENV= # XMTP environment (e.g., production, development)
 OPEN_AI_API_KEY= # Your OpenAI API key here
+PUBLIC_BOT_ADDRESS= # Your public bot address here
+HEARTBEAT_BOT_KEY= # Your heartbeat bot key here
+DEBUG= #debug mode
 ```
 
 Powered by <a href="https://openai.com">OpenAI</a>
