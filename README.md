@@ -7,8 +7,8 @@ Go to [BotKit](https://github.com/fabriguespe/botkit) to learn more
 To kickstart the tutorial, you'll need to clone the repository containing the bot code. Follow these steps:
 
 ```bash
-git clone https://github.com/fabriguespe/ai-docs-bot.git
-cd ai-docs-bot
+git clone https://github.com/fabriguespe/crypto-joker.git
+cd crypto-joker
 # copy env variables template
 cp .env.example .env
 ```
