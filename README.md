@@ -1,5 +1,7 @@
 # Crypto Joker 🃏
 
+> 💬 **Try it:** Message `gpt.hi.xmtp.eth`
+
 Go to [BotKit](https://github.com/xmtp/botkit) to learn more
 
 ## Development
