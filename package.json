@@ -1,5 +1,5 @@
 {
-  "name": "echo-bot",
+  "name": "crypto-joker",
   "type": "module",
   "scripts": {
     "build": "tsc",
