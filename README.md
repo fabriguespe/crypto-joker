@@ -18,6 +18,7 @@ cp .env.example .env
 ```bash
 KEY= # the private key of the bot
 XMTP_ENV= # set to production or dev network
+OPEN_AI_API_KEY= #open ai api key
 ```
 
 > ⚠️ Bot kit is not compatible with `bun` yet. Use `npm` or `yarn`
